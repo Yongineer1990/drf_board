@@ -1,3 +1,8 @@
+# Board
+
+## API Documentation
+[문서보기](https://documenter.getpostman.com/view/11684511/T1LMhmp3?version=latest)
+
 ## 적용 기술 (Backend)
 
 - Python
@@ -8,6 +13,7 @@
 - Bcrypt
 - Mysql
 - CORS headers
+- Docker
 
 ## 구현 기능
 ### 게시물 목록
